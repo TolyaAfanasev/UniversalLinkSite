@@ -1,9 +1,19 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
-            "appID": "86T6CU4TCY.bottomline.PT-X-AV",
-            "paths": ["*"]
-        }]
+        "details": [
+            {
+                "appID": "86T6CU4TCY.bottomline.PT-X-AV",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "KC56XKU776.com.bottomline.flutter.ptxav.AV.development",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
     }
 }
