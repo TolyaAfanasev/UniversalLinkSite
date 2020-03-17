@@ -1,13 +1,18 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "KC56XKU776.com.bottomline.flutter.ptxav.AV.development",
-                "paths": [
-                    "*"
-                ]
-            }
-        ]
-    }
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "KC56XKU776.com.bottomline.flutter.ptxav.AV.development"],
+             "components": [
+               {
+                  "*": "*",
+                  "comment": "Ololo"
+               },
+             ]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "KC56XKU776.com.bottomline.flutter.ptxav.AV.development" ]
+   }
 }
