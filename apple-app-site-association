@@ -1,18 +1,25 @@
 {
-  "applinks": {
-      "details": [
-           {
-             "appIDs": [ "KC56XKU776.com.bottomline.flutter.ptxav.AV.development"],
-             "components": [
-               {
-                  "*": "*",
-                  "comment": "Ololo"
-               },
-             ]
-           }
-       ]
-   },
-   "webcredentials": {
-      "apps": [ "KC56XKU776.com.bottomline.flutter.ptxav.AV.development" ]
-   }
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "86T6CU4TCY.bottomline.PT-X-AV",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "KC56XKU776.com.bottomline.flutter.ptxav.AV.development",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "86T6CU4TCY.com.bottomline.flutter.ptxav",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
 }
